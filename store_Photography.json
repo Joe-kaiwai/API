@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "City",
+        "price": 49,
+        "image": "city.jpg",
+        "description": "City at the End of Time"
+    },
+    {
+        "id": 2,
+        "name": "Street",
+        "price": 49,
+        "image": "street.jpg",
+        "description": "Night street scene"
+    },
+    {
+        "id": 3,
+        "name": "Black & White",
+        "price": 69,
+        "image": "along.jpg",
+        "description": "Through the woods alone"
+    },
+    {
+        "id": 4,
+        "name": "Planet",
+        "price": 69,
+        "image": "star.jpg",
+        "description": "Can't think of any words to describe :C"
+    },
+    {
+        "id": 5,
+        "name": "Starry Sky",
+        "price": 81,
+        "image": "skylight.jpg",
+        "description": "Fantastic starry sky"
+    },
+    {
+        "id": 6,
+        "name": "Innocent",
+        "price": 81,
+        "image": "kid.jpg",
+        "description": "Innocent Kid"
+    }
+]
